@@ -14,25 +14,8 @@ Follow these instructions to get a copy of the project running on your local mac
 
 Prerequisites
 
-You'll need Python installed on your system. You can download Python from [here](https://www.python.org/downloads/).
+You'll need Python installed on your system. 
 
- Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/to-do-list-app.git
-   ```
-
-2. Navigate to the project directory:
-
-     cd to-do-list-app
-
-3. Install any necessary dependencies (Tkinter is built-in with Python, so no additional libraries are required).
-
-4. Run the application:
-
-   python to_do_list.py
  How to Use
 
 1. Adding Tasks: Type a task into the input field and press the "Add Task" button to add it to the list.
